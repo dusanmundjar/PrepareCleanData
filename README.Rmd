@@ -1,0 +1,12 @@
+---
+title: "README"
+author: "DM"
+date: "Sunday, April 26, 2015"
+output: html_document
+---
+
+This is  README file for  run_analysis.R script.
+
+The script uses data sets in folder: "UCI HAR Dataset" in merges those datasets and makes one dataset more appropriate for analysis.
+
+You need to download data and run script. That's all.
